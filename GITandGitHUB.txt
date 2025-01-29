@@ -1,0 +1,12 @@
+GIT
+
+GIT is a VCS, Version Control System
+
+1. Remote repository = a remote project folder.. ex. GITHUB, GITLAB, GITBucket, Amazon AWS CodeCommint, Microsoft Azzure DevOps, etc
+
+2. Local Repository - the project folder that is there in the system on which we are working
+
+3. Staging Area -
+
+4. Working directory - 
+
