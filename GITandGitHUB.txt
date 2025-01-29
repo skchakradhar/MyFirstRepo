@@ -10,3 +10,15 @@ GIT is a VCS, Version Control System
 
 4. Working directory - 
 
+
+
+Command to move the files from working directory to staging; individual files can be moved to staging
+
+git add fileName
+
+Command to move the files from staging to local repository; all the files will be moved at once
+
+git commint -m "meaningful message describing about the changes done"
+
+
+
